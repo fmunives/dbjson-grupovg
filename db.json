@@ -1,0 +1,61 @@
+{
+    const courses : [
+    {
+      id: 1,
+      title: "SAP 2000 Básico / Intermedio",
+      image: "https://fmunives.github.io/GrupoVG/img/portfolio/cursos/sap.jpg",
+      image_level:
+        "https://cdn0.iconfinder.com/data/icons/rewards-and-badges-1/64/level-reward-medal-badge-256.png",
+      level: "Intermedio",
+      price: 250
+    },
+    {
+      id: 2,
+      title: "Diseño geométrico de Carreteras con Civil 3D",
+      image:
+        "https://fmunives.github.io/GrupoVG/img/portfolio/cursos/diseno_geometrico.jpg",
+      image_level:
+        "https://cdn0.iconfinder.com/data/icons/rewards-and-badges-1/64/level-reward-medal-badge-256.png",
+      level: "Intermedio",
+      price: 280
+    },
+    {
+      id: 3,
+      title: "Costos y Presupuestos con S10",
+      image: "https://fmunives.github.io/GrupoVG/img/portfolio/cursos/s10.jpg",
+      image_level:
+        "https://cdn0.iconfinder.com/data/icons/rewards-and-badges-1/64/level-reward-medal-badge-256.png",
+      level: "Intermedio",
+      price: 280
+    },
+    {
+      id: 4,
+      title: "Análisis y Diseño de Edificaciones Sismoresistentes",
+      image:
+        "https://fmunives.github.io/GrupoVG/img/portfolio/cursos/edificacion.jpg",
+      image_level:
+        "https://cdn0.iconfinder.com/data/icons/rewards-and-badges-3/64/level-reward-medal-badge-256.png",
+      level: "Avanzado",
+      price: 300
+    },
+    {
+      id: 5,
+      title: "Etabs Básico / Intermedio",
+      image: "https://fmunives.github.io/GrupoVG/img/portfolio/cursos/etab.jpg",
+      image_level:
+        "https://cdn0.iconfinder.com/data/icons/rewards-and-badges-1/64/level-reward-medal-badge-256.png",
+      level: "Intermedio",
+      price: 250
+    },
+    {
+      id: 6,
+      title: "Programación de Obra con MS Project",
+      image:
+        "https://fmunives.github.io/GrupoVG/img/portfolio/cursos/project.jpg",
+      image_level:
+        "https://cdn0.iconfinder.com/data/icons/rewards-and-badges-1/64/level-reward-medal-badge-256.png",
+      level: "Intermedio",
+      price: 280
+    }
+  ]
+}
